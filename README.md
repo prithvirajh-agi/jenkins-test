@@ -1,2 +1,1 @@
-# jenkins-test
-jenkins
+run from github to jenkins
